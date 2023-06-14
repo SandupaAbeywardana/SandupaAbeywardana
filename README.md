@@ -69,7 +69,7 @@
 
 <br/>
 
-[![Sandupa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SandupaAbeywardana&theme=react-dark)](https://github.com/SandupaAbeywardana/github-readme-activity-graph)
+[![Sandupa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SandupaAbeywardana&theme=react-dark)](https://github.com/SandupaAbeywardana/github-readme-activity-graph)
 
 <br/>
 
