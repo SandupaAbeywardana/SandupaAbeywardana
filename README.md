@@ -1,4 +1,4 @@
-<p align="center"><img src="https://iili.io/HPvOH6G.md.jpg" height="280"></p>
+<p align="center"><img src="https://github.com/SandupaAbeywardana/SandupaAbeywardana/blob/main/landing.jpg" height="280"></p>
 <h2 align="center"> Sandupa Abeywardana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
 
 <p></p>
