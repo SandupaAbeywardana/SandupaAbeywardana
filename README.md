@@ -20,7 +20,7 @@
  ```
   For Academic Purposes
   
-  Student ID :IT21294334
+  Student ID : IT21294334
   Student Name : Abeywardana B A I S
  ```
 
@@ -59,9 +59,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SandupaAbeywardana/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sandupa Abeywardana's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SandupaAbeywardana&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=SandupaAbeywardana&theme=react" width="51%" />
  </p>
  <p align="center">
    <a href="https://github.com/SandupaAbeywardana/github-readme-stats"><img alt="Sandupa Abeywardana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SandupaAbeywardana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/SandupaAbeywardana/github-readme-stats"><img alt="Sandupa Abeywardana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandupaAbeywardana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
