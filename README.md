@@ -5,14 +5,13 @@
 
 <p align="center">
   <a href="https://github.com/SandupaAbeywardana">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=640&lines=%3E+whoami;Senior+Software+Engineer+%40+Simplibill;Full-stack+%7C+Laravel+%E2%80%A2+Spring+Boot+%E2%80%A2+Next.js;Mobile+apps+with+React+Native;Founder+%40+PixelCore+Holdings;Turning+coffee+into+production+code+%E2%98%95" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=640&lines=%3E+whoami;Senior+Software+Engineer+%40+Simplibill;Full-stack+%7C+Laravel+%E2%80%A2+Spring+Boot+%E2%80%A2+Next.js;Mobile+apps+with+React+Native;Founder+%40+PixelCore+IT+Solutions;Turning+coffee+into+production+code+%E2%98%95" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/isumsandupa"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/></a>
+  <a href="https://linkedin.com/in/isumsandupa"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwRDlGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+"/></a>
   <a href="mailto:sandupa.isum@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"/></a>
-  <a href="https://twitter.com/abeywardanatm"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00D9FF"/></a>
   <a href="http://instagram.com/sanx98"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00D9FF"/></a>
   <a href="https://facebook.com/SandupaAbeywardana/"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=00D9FF"/></a>
 </p>
@@ -28,7 +27,7 @@
 const sandupa = {
   role:              "Senior Software Engineer",
   company:           "Simplibill — Healthcare Revenue Cycle Management",
-  founder:           "PixelCore Holdings (Pvt) Ltd",
+  founder:           "PixelCore IT Solutions",
   location:          "Malabe, Sri Lanka",
   currentlyBuilding: "ideas that don't exist yet 🚀",
   fueledBy:          ["coffee ☕", "curiosity", "late-night commits"],
