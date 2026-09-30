@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/SandupaAbeywardana/SandupaAbeywardana/blob/main/landing.jpg" height="280"></p>
+<p align="center"><img src="https://github.com/SandupaAbeywardana/SandupaAbeywardana/raw/main/landing.jpg" height="280"></p>
 <h2 align="center"> Sandupa Abeywardana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
 
 <p></p>
@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SandupaAbeywardana" alt="SandupaAbeywardana" /> </p>
 </h2>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>
+<img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true">
 <br>
 <a href="https://twitter.com/abeywardanatm"><img src="https://img.shields.io/badge/Twitter-222222?&style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/abeywardanatm"></a>
 <a href="http://instagram.com/sanx98"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/sanx98"></a>
@@ -36,7 +36,7 @@
 
 ## <img src="https://img.icons8.com/color/48/undefined/trophy.png"/> My Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SandupaAbeywardana&theme=juicyfresh&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-kappa.vercel.app/?username=SandupaAbeywardana&theme=juicyfresh&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
@@ -62,12 +62,12 @@
     <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=SandupaAbeywardana&theme=react" width="51%" />
  </p>
  <p align="center">
-   <a href="https://github.com/SandupaAbeywardana/github-readme-stats"><img alt="Sandupa Abeywardana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SandupaAbeywardana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/SandupaAbeywardana/github-readme-stats"><img alt="Sandupa Abeywardana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandupaAbeywardana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/SandupaAbeywardana/github-readme-stats"><img alt="Sandupa Abeywardana's Github Stats" src="https://github-stats-extended.vercel.app/api?username=SandupaAbeywardana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/SandupaAbeywardana/github-readme-stats"><img alt="Sandupa Abeywardana's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SandupaAbeywardana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 <br/>
 
-[![Sandupa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SandupaAbeywardana&theme=react-dark)](https://github.com/SandupaAbeywardana/github-readme-activity-graph)
+[![Sandupa's github activity graph](https://github-readme-activity-graph-seven.vercel.app/graph?username=SandupaAbeywardana&theme=react-dark)](https://github.com/SandupaAbeywardana/github-readme-activity-graph)
 
 <br/>
 
