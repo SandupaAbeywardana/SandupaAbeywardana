@@ -67,7 +67,11 @@ const sandupa = {
 </p>
 
 <p align="center">
-  <img src="https://demolab.com" />
+  <div align="center">
+    <a href="https://github.com">
+      <img src="https://demolab.com" alt="Sandupa's GitHub Streak" />
+    </a>
+  </div>
 </p>
 
 <p align="center">
