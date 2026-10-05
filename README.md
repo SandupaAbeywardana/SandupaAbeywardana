@@ -67,12 +67,10 @@ const sandupa = {
 </p>
 
 <p align="center">
-  <div align="center">
-    <a href="https://github.com">
-      <img src="https://demolab.com" alt="Sandupa's GitHub Streak" />
-    </a>
-  </div>
+  <img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=SandupaAbeywardana&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E&stroke=30363D&disable_animations=true" />
 </p>
+
+
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-seven.vercel.app/graph?username=SandupaAbeywardana&hide_border=true&bg_color=0D1117&color=00D9FF&title_color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" />
