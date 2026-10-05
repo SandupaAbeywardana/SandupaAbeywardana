@@ -67,7 +67,7 @@ const sandupa = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SandupaAbeywardana&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E&stroke=30363D&disable_animations=true" />
+  <img src="https://demolab.com" />
 </p>
 
 <p align="center">
