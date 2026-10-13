@@ -78,7 +78,7 @@ const sandupa = {
 ## `> ./trophies --show`
 
 <p align="center">
-  <img src="https://github-profile-trophy-kappa.vercel.app/?username=SandupaAbeywardana&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy-kappa.vercel.app/?username=SandupaAbeywardana&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&cache_seconds=1800" />
 </p>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
