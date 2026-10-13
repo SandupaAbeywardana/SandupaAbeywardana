@@ -62,16 +62,16 @@ const sandupa = {
 ## `> git log --stats`
 
 <p align="center">
-  <img height="170" src="https://readme-stats-zeta-seven.vercel.app/api?username=SandupaAbeywardana&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&ring_color=00D9FF&disable_animations=true" />
-  <img height="170" src="https://readme-stats-zeta-seven.vercel.app/api/top-langs/?username=SandupaAbeywardana&langs_count=8&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&ring_color=00D9FF&disable_animations=true" />
+  <img height="170" src="https://readme-stats-zeta-seven.vercel.app/api?username=SandupaAbeywardana&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&ring_color=00D9FF&disable_animations=true&cache_seconds=1800" />
+  <img height="170" src="https://readme-stats-zeta-seven.vercel.app/api/top-langs/?username=SandupaAbeywardana&langs_count=8&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&ring_color=00D9FF&disable_animations=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SandupaAbeywardana&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E&stroke=30363D&disable_animations=true" />
+   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SandupaAbeywardana&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E&stroke=30363D&disable_animations=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-seven.vercel.app/graph?username=SandupaAbeywardana&hide_border=true&bg_color=0D1117&color=00D9FF&title_color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" />
+  <img width="100%" src="https://github-readme-activity-graph-seven.vercel.app/graph?username=SandupaAbeywardana&hide_border=true&bg_color=0D1117&color=00D9FF&title_color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&cache_seconds=1800" />
 </p>
 
 <!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
