@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/SandupaAbeywardana">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=640&lines=%3E+whoami;Senior+Software+Engineer+%40+Simplibill;Full-stack+%7C+Laravel+%E2%80%A2+Spring+Boot+%E2%80%A2+Next.js;Mobile+apps+with+React+Native;Founder+%40+PixelCore+IT+Solutions;Turning+coffee+into+production+code+%E2%98%95" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=640&lines=%3E+whoami;Senior+Software+Engineer+%40+Simplibill;Full-stack+%7C+Laravel+%E2%80%A2+Spring+Boot+%E2%80%A2+Next.js+%E2%80%A2+Python;Mobile+apps+with+React+Native;Founder+%40+PixelCore+IT+Solutions;Turning+coffee+into+production+code+%E2%98%95" alt="Typing SVG"/>
   </a>
 </p>
 
